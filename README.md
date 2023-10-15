@@ -1,2 +1,2 @@
 # Computer-Organization
-111-1 李毅郎教授
+1111 計算機組織 李毅郎
